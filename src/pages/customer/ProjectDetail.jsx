@@ -1,0 +1,1 @@
+const ProjectDetail = () => <div className="pt-16 min-h-screen"><div className="max-w-7xl mx-auto px-4 py-16"><h1 className="font-headline text-4xl font-bold mb-8">Project Detail</h1><p className="text-lg text-muted-foreground">Project detail coming soon...</p></div></div>; export default ProjectDetail
